@@ -53,5 +53,5 @@ The WiFi Notification App is released under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out to the project maintainer at [email@example.com](mailto:email@example.com).
+For any questions or suggestions, feel free to reach out to the project maintainer at [kwbrogan@gmail.com](mailto:kwbrogan@gmail.com).
 
